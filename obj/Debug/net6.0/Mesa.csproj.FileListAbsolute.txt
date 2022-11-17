@@ -1,0 +1,15 @@
+D:\Labs\Mesa\Mesa\obj\Debug\net6.0\Mesa.csproj.AssemblyReference.cache
+D:\Labs\Mesa\Mesa\obj\Debug\net6.0\Mesa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\Mesa\Mesa\obj\Debug\net6.0\Mesa.AssemblyInfoInputs.cache
+D:\Labs\Mesa\Mesa\obj\Debug\net6.0\Mesa.AssemblyInfo.cs
+D:\Labs\Mesa\Mesa\obj\Debug\net6.0\Mesa.csproj.CoreCompileInputs.cache
+D:\Labs\Mesa\Mesa\bin\Debug\net6.0\Mesa.exe
+D:\Labs\Mesa\Mesa\bin\Debug\net6.0\Mesa.deps.json
+D:\Labs\Mesa\Mesa\bin\Debug\net6.0\Mesa.runtimeconfig.json
+D:\Labs\Mesa\Mesa\bin\Debug\net6.0\Mesa.dll
+D:\Labs\Mesa\Mesa\bin\Debug\net6.0\Mesa.pdb
+D:\Labs\Mesa\Mesa\obj\Debug\net6.0\Mesa.dll
+D:\Labs\Mesa\Mesa\obj\Debug\net6.0\refint\Mesa.dll
+D:\Labs\Mesa\Mesa\obj\Debug\net6.0\Mesa.pdb
+D:\Labs\Mesa\Mesa\obj\Debug\net6.0\Mesa.genruntimeconfig.cache
+D:\Labs\Mesa\Mesa\obj\Debug\net6.0\ref\Mesa.dll
